@@ -1,0 +1,4 @@
+bases:
+- components/m4-component/base
+resources:
+- common-storage-pvc.yaml
